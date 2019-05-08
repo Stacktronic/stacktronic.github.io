@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- wp:cover {"url":"https://stacktronic.files.wordpress.com/2019/05/wallpaper-1.jpg","id":13,"hasParallax":true,"dimRatio":20,"align":"full","className":"has-undefined-content"} -->
+<div class="wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax has-undefined-content" style="background-image:url(https://stacktronic.files.wordpress.com/2019/05/wallpaper-1.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p style="text-align:center" class="has-large-font-size"><strong>Coming Soon</strong></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:heading -->
+<h2>About Us</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We're a Canadian startup developing a new type of electric-vehicle battery. A battery that simplifies, expedites, and drastically reduces the cost of the design process for electric powertrains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our eyes are set on several emerging industries in the world of electric-vehicles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Stay tuned.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2>Get in Touch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p style="text-align:left"><strong>Stacktronic</strong><br>The Tannery, 151 Charles St W <br>Suite 199, Kitchener, ON N2G 1H6&nbsp; <br>(905) 580-1060&nbsp;  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/map {"points":[{"placeTitle":"Charles Street West","title":"Charles Street West","caption":"151 Charles Street West, Kitchener, Ontario N2G 1H6, Canada","id":"address.5280021961459320","coordinates":{"longitude":-80.498936,"latitude":43.451352}}],"zoom":13.843197984267645} -->
+<div class="wp-block-jetpack-map" data-map-style="default" data-map-details="true" data-points="[{&quot;placeTitle&quot;:&quot;Charles Street West&quot;,&quot;title&quot;:&quot;Charles Street West&quot;,&quot;caption&quot;:&quot;151 Charles Street West, Kitchener, Ontario N2G 1H6, Canada&quot;,&quot;id&quot;:&quot;address.5280021961459320&quot;,&quot;coordinates&quot;:{&quot;longitude&quot;:-80.498936,&quot;latitude&quot;:43.451352}}]" data-zoom="13.843197984267645" data-map-center="{&quot;longitude&quot;:-122.41941550000001,&quot;latitude&quot;:37.7749295}" data-marker-color="red"><ul><li><a href="https://www.google.com/maps/search/?api=1&amp;query=43.451352,-80.498936">Charles Street West</a></li></ul></div>
+<!-- /wp:jetpack/map -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2>Send Us a Message</h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/contact-form -->
+<!-- wp:jetpack/field-name {"required":true} /-->
+
+<!-- wp:jetpack/field-email {"required":true} /-->
+
+<!-- wp:jetpack/field-textarea /-->
+<!-- /wp:jetpack/contact-form -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Copyright Stacktronic 2019 - All rights reserved<br></p>
+<!-- /wp:paragraph -->
+
+
+</body>
+</html>
